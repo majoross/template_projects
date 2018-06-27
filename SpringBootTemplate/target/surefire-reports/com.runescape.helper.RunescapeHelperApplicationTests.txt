@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.runescape.helper.RunescapeHelperApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.264 s - in com.runescape.helper.RunescapeHelperApplicationTests

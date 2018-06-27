@@ -1,0 +1,5 @@
+com\runescape\helper\service\AccountService.class
+com\runescape\helper\controller\ViewController.class
+com\runescape\helper\domain\Account.class
+com\runescape\helper\RunescapeHelperApplication.class
+com\runescape\helper\repository\AccountRepository.class
